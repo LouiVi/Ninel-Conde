@@ -1,4 +1,4 @@
-cfg.Light, cfg.Share, cfg.MUI;
+cfg.Light, cfg.Share;
 app.LoadPlugin( "Utils" );
 var url = "https://m.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNinelConde%2Fvideos%2F2107727446155181%2F&amp%3Bshow_text=1&amp%3Bwidth=560";
 //Called when application is started.
